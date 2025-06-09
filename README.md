@@ -77,7 +77,7 @@ Ensure you have the following installed:
 
 You can access the deployed application at:
 
-- 🌍 **[Streamlit App](https://your-deployment-link.streamlit.app/)**
+- 🌍 **[Streamlit App](https://heart-disease-prediction-grp-14.streamlit.app/)**
 
 ## 🤝 Contribution
 
